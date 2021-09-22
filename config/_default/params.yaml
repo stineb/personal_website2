@@ -8,7 +8,7 @@
 theme: 1950s
 day_night: true
 font: 'default'
-font_size: m
+font_size: M
 
 # SEO
 
@@ -23,37 +23,37 @@ twitter: ''
 email: benjamin.stocker@gmail.com
 phone: +41 44 632 48 90
 address:
-  street: Universitätstrasse 2
-  city: Zurich
-  region: ""
-  postcode: '8092'
-  country: Switzerland
-  country_code: CH
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: ""
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/SteniBocker'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  street: LFW C 55.3, Universitätstrasse 2, 8092 Zürich, Switzerland
+#   city: Zurich
+#   region: ""
+#   postcode: '8092'
+#   country: Switzerland
+#   country_code: CH
+# coordinates:
+#   latitude: '37.4275'
+#   longitude: '-122.1697'
+# directions: ""
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: DM Me
+#     link: 'https://twitter.com/SteniBocker'
+#   - icon: skype
+#     icon_pack: fab
+#     name: Skype Me
+#     link: 'skype:echo123?call'
+#   - icon: keybase
+#     icon_pack: fab
+#     name: Chat on Keybase
+#     link: 'https://keybase.io/'
+#   - icon: comments
+#     icon_pack: fas
+#     name: Discuss on Forum
+#     link: 'https://discourse.gohugo.io'
 
 # Site header
 

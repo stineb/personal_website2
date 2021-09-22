@@ -3,11 +3,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
+active: false
+
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 40
+weight: 00
 
 title: Experience
 subtitle:
