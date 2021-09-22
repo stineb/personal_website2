@@ -2,49 +2,50 @@
 title: Benjamin Stocker
 role: Assistant Professor
 avatar_filename: stocker-benjamin_q.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Heliocentrist human being.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Climate impacts
+  - Carbon, water and nutrient cycles
+  - Model-data integration
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/SteniBocker
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.es/citations?user=TX7egiYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/stineb
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-2697-9096
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Benjamin_Stocker
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Computational Ecosystem Science, ETH Zürich
+    url: https://computationales.ethz.ch/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Climate Science
+      institution: University of Bern
+      year: 2013
+    - course: MSc in Climate Science
+      institution: University of Bern
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a climate and environmental scientist with a special interest in interactions between global environmental change and terrestrial ecology and biogeochemistry. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work aims at providing data-informed predictions of how land ecosystems respond to a changing climate, increasing CO2 and changes in nutrient cycles. I am developing process-based models, using eco-evolutionary optimality principles to explain plant trait variations, and I am working on assimilating diverse ecological datasets (eddy covariance, forest inventories, remote sensing, ecosystem manipulation experimental data) into model predictions. In brief, I'm building models, as simple as possible and as complex as necessary to learn the most. All [open access](https://github.com/stineb), of course.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I’m motivated to contribute to a better understanding of issues that are becoming increasingly pressing to society and policy and that are key to creating a sustainable future.  
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
