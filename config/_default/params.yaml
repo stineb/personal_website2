@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: 1950s
 day_night: true
-font: ''
-font_size: L
+font: 'default'
+font_size: m
 
 # SEO
 
