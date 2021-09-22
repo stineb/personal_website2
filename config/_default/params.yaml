@@ -6,7 +6,7 @@
 # Appearance
 
 theme: 1950s
-day_night: true
+day_night: false
 font: 'default'
 font_size: M
 
@@ -59,10 +59,10 @@ address:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
