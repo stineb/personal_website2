@@ -4,9 +4,10 @@ role: Assistant Professor
 avatar_filename: stocker-benjamin_q.jpg
 bio: Heliocentrist human being.
 interests:
-  - Climate impacts
-  - Carbon, water and nutrient cycles
-  - Model-data integration
+  - Predicting drought impacts on forests
+  - Climate-biosphere interactions
+  - Developing next-generation vegetation models
+  - Model-data integration and machine-learning
 social:
   - icon: envelope
     icon_pack: fas
