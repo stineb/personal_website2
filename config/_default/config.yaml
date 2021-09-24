@@ -66,9 +66,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
-
- - label: "Featured Image"
-   name: "thumbnail"
-   widget: "image"
-   choose_url: true
-   default: "/media/background.png"
+    - label: "Featured Image"
+      name: "thumbnail"
+      widget: "image"
+      choose_url: true
+      default: "/media/background.png"
