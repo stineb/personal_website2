@@ -21,5 +21,5 @@ author: admin
 
 header:
   caption: ""
-  image: "media/background.png"
+  image: "/background.png"
 ---
