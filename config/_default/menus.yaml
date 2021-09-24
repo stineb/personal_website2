@@ -7,14 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: MIND
-    url: '/mind/'
-    weight: 20
+  # - name: MIND
+  #   url: '/mind/'
+  #   weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
   - name: Data and code
-    url: '#data_code'
+    url: '/data_code/'
     weight: 40
   - name: Teaching
     url: '/teaching/'
