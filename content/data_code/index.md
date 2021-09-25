@@ -28,6 +28,7 @@ An implementation of the *P-model* for leaf-level acclimation of photosynthesis 
 
 [Development code](https://github.com/stineb/rpmodel/)
 
+---
 
 ## [rsofun](https://stineb.github.io/rsofun/)
 
@@ -43,6 +44,8 @@ A modelling framework for site-scale simulations of ecosystem processes, impleme
 
 [Development code](https://github.com/stineb/rsofun/)
 
+---
+
 ## [ingestr](https://stineb.github.io/ingestr/)
 
 Functions to extract (ingest) environmental point data from large global files or remote data servers and create time series at user-specified temporal resolution. Facilitates forcing and evaluation data preparation for [rsofun](https://stineb.github.io/rsofun/). The main functionalities are:
@@ -56,6 +59,8 @@ Functions to extract (ingest) environmental point data from large global files o
 [Code](https://doi.org/10.5281/zenodo.4495563)
 
 [Development code](https://github.com/stineb/ingestr/)
+
+---
 
 
 ## [SOFUN](https://stineb.github.io/sofun/)
@@ -71,11 +76,15 @@ A modular modelling framework for global-scale simulations of ecosystem processe
 
 [Development code](https://github.com/stineb/sofun)
 
+---
+
 ## DYPTOP
 
 A cost-efficient TOPMODEL implementation to simulate sub-grid spatio-temporal dynamics of global wetlands and peatlands ([Stocker et al., 2014 *GMD*](https://gmd.copernicus.org/articles/7/3089/2014/)). Written in Fortran.
 
 [Development code](https://github.com/stineb/dyptop)
+
+---
 
 ## cwd
 
@@ -87,14 +96,18 @@ A light R package for deriving cumulative water deficits, given time series of e
 
 [Development code](https://github.com/stineb/cwd/)
 
+---
+
 ## More code
 
 More of my open source code and open access model outputs:
 
 - [rbeni](https://github.com/stineb/rbeni): An eclectic collection of functions used in Beni's daily life, implemented as an R package.
 
+---
+
 # Data and outputs
 
-- [fLUE](https://doi.org/10.5281/zenodo.1158524): Fractional reduction in light use efficiency due to soil moisture stress, estimated at FLUXNET2015 Tier 1 sites, as described in Stocker et al., (2018) New Phytologist.
-- [SCWDX80 and zCWDX80](https://doi.org/10.5281/zenodo.5515246): Global rooting zone water storage capacity (SCWDX80, mm) and rooting depth (zCWDX80, mm) estimates from Stocker et al., (2021).
-- [GPP at FLUXNET Tier 1 sites from P-model](https://doi.org/10.5281/zenodo.3559850): Gross primary production, simulated by the P-model for each FLUXNET 2015 Tier 1 site. 
+- [fLUE](https://doi.org/10.5281/zenodo.1158524): Fractional reduction in light use efficiency due to soil moisture stress, estimated at FLUXNET2015 Tier 1 sites, as described in Stocker et al., (2018) *New Phytologist*.
+- [SCWDX80 and zCWDX80](https://doi.org/10.5281/zenodo.5515246): Global rooting zone water storage capacity (SCWDX80, mm) and rooting depth (zCWDX80, mm) estimates from Stocker et al., (2021) *BiorXiv*.
+- [GPP at FLUXNET Tier 1 sites from P-model](https://doi.org/10.5281/zenodo.3559850): Gross primary production, simulated by the P-model for each FLUXNET 2015 Tier 1 site. From stocker et al. (2020) *GMD*
