@@ -1,24 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multiple greenhouse-gas feedbacks from the land biosphere under future climate
-  change scenarios
+title: Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass
+  (vol 21, pg 561, 2020)
 subtitle: ''
 summary: ''
 authors:
-- Benjamin D. Stocker
-- Raphael Roth
-- Fortunat Joos
-- Renato Spahni
-- Marco Steinacher
-- Soenke Zaehle
-- Lex Bouwman
-- Xu-Ri Xu-Ri
-- Iain Colin Prentice
+- Cesar Terrer
+- Robert B Jackson
+- I Colin Prentice
+- Trevor F Keenan
+- Christina Kaiser
+- Sara Vicca
+- Joshua B Fisher
+- Peter B Reich
+- Benjamin D Stocker
+- Bruce A Hungate
+- ' others'
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2021-09-25T10:12:45+02:00
+date: '2020-01-01'
+lastmod: 2021-09-25T10:12:36+02:00
 featured: false
 draft: false
 
@@ -36,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-25T08:12:45.239668Z'
+publishDate: '2021-09-25T08:12:36.177719Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Clim. Change*'
+publication: '*NATURE CLIMATE CHANGE*'
 ---

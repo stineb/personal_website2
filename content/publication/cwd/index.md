@@ -1,24 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Multiple greenhouse-gas feedbacks from the land biosphere under future climate
-  change scenarios
+title: 'cwd v1.0: R package for cumulative water deficit  calculation'
 subtitle: ''
 summary: ''
 authors:
-- Benjamin D. Stocker
-- Raphael Roth
-- Fortunat Joos
-- Renato Spahni
-- Marco Steinacher
-- Soenke Zaehle
-- Lex Bouwman
-- Xu-Ri Xu-Ri
-- Iain Colin Prentice
+- Benjamin Stocker
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2021-09-25T10:12:45+02:00
+date: '2021-09-01'
+lastmod: 2021-09-25T10:12:36+02:00
 featured: false
 draft: false
 
@@ -36,9 +27,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-25T08:12:45.239668Z'
+publishDate: '2021-09-25T08:12:36.315508Z'
 publication_types:
-- '2'
+- '0'
 abstract: ''
-publication: '*Nature Clim. Change*'
+publication: '*Zenodo*'
+url_pdf: https://doi.org/10.5281/zenodo.5359053
+doi: 10.5281/zenodo.5359053
 ---

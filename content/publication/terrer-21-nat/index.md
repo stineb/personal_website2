@@ -28,7 +28,7 @@ authors:
 tags: []
 categories: []
 date: '2021-03-01'
-lastmod: 2021-09-25T10:08:45+02:00
+lastmod: 2021-09-25T10:12:37+02:00
 featured: false
 draft: false
 
@@ -46,7 +46,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-25T08:08:44.890848Z'
+publishDate: '2021-09-25T08:12:37.269703Z'
 publication_types:
 - '2'
 abstract: 'Terrestrial ecosystems remove about 30 per cent of the carbon dioxide (CO2)
