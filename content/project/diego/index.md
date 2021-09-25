@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Diego"
-summary: ""
+title: "Data assimilation"
+summary: "Data from intensive ecosystem monitoring sites is assimilated into predictions of a mechanistic ecosystem model"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+

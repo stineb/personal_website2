@@ -36,7 +36,7 @@ categories = []
 
 Reliable reconstructions of past land-use change are essential to address several key challenges in understanding the role of humans in the Earth’s environmental history. Here we discuss how to integrate our understanding of past carbon cycle changes within constraints of the land carbon budget.
 
-*(This article is scheduled to be published in the [PAGES Magazine Special Issue on Past Land Use and Land Cover Change](http://pastglobalchanges.org/products/pages-magazine/12456-26-1-past-land-use-land-cover))*
+*(This article was published in the [PAGES Magazine Special Issue on Past Land Use and Land Cover Change](https://boris.unibe.ch/119602/))*
 
 Particular features in the ice-core CO2 and CH4 records have been hypothesized to be linked to the rise and fall of agriculture and societies (Ruddiman 2003) and have been used to serve as stratigraphic markers for the Anthropocene (Lewis and Maslin 2015). The trend reversals in atmospheric CO2 around 7000 yr BP and in CH4 around 5000 yr BP and their continuous increase thereafter have been linked to the expansion of early agriculture, associated deforestation and CO2 emissions, and the establishment of wet rice cultivation with high CH4 emissions. The apparent downturn in atmospheric CO2 after 1500 CE falls into the period following the arrival of Europeans in the Americas and the subsequent dramatic collapse of native populations. However, these proposed hypotheses, claiming a causal link between the history of civilizations and greenhouse gas changes, critically rest on the plausibility of land-use and land-cover change (LULC) reconstructions and the magnitude of associated greenhouse gas emissions.
 

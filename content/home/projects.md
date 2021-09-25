@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Projects
-subtitle: 'Projects led by my group members [here](https://computationales.ethz.ch/research/projects.html)'
+subtitle: 'Overview of some ongoing research. Projects led by my group members [here](https://computationales.ethz.ch/research/projects.html)'
 
 content:
   # Page type to display. E.g. project.

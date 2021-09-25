@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "DGVM linearity"
-summary: ""
+summary: "Diagnosing to what global vegetation models simulate source (photosynthesis)-driven carbon cycle dynamics."
 authors: []
 tags: []
 categories: []
@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+This research is led by [Huanyuan Zhan](https://www.geog.ox.ac.uk/graduate/research/hzhang.html), PhD student under the main supervision of Prof. Yadvinder Malhi at the University of Oxford, GB. I designed this study and am collaborating closely with Huanyuan on this project.
 
 ## Motivation 
 

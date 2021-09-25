@@ -40,6 +40,8 @@ url_video: ""
 slides: ""
 ---
 
+This research emerges from a semester project for the Data Science Lab at ETH Zürich, a course of the Computer Science study programme. I supervised students Alexandru Meterez, Piersilvio de Bartolomeis, and Zixin Shelley Shu, all MSc students in Computer Scince at ETHZ. The results are currently written up as a manuscript.
+
 ## Motivation
 
 Ecosystem-atmosphere exchange fluxes of water vapour and CO2 are continuously measured at several hundred of sites, distributed across the globe. The oldest running sites have been recording data since over twenty years. Thanks to the international FLUXNET initiative, these time series data are made openly accessible from over hundred sites and provided in a standardized format and complemented with measurements of several meteorological variables, plus soil temperature and moisture, measured in parallel. These data provide an opportunity for understanding ecosystem fluxes and how they are affected by environmental covariates. The challenge is to build models that are sufficiently generalisable in space. That is, temporally resolved relationships learned from one subset of sites should be used effectively to predict time series, given environmental covariates, at new sites (spatial upscaling). 

@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Recent Posts
-subtitle:
+subtitle: 'Some blog posts I have written'
 
 content:
   # Page type to display. E.g. post, talk, publication...

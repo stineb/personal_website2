@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Sensing drough stress"
-summary: ""
+title: "Sensing drought stress"
+summary: "Unlocking the full potential of surface reflectance remote sensing"
 authors: []
 tags: []
 categories: []
@@ -40,8 +40,8 @@ url_video: ""
 slides: ""
 ---
 
+This project is led by Martina Buck, a MSc student in my group for Compuational Ecosystem Science.
+
 Satellite remote sensing data of surface reflectance is widely used to measure vegetation structure and green foliage area and quantify indices such as the NDVI (normalized difference vegetation index). However, effects of abiotic stress (e.g. droughts) and physiological responses are not directly measured or insufficiently captured by such indices and other available surface reflectance-based satellite products. We know, however, that additional information is contained in certain spectral bands and provides insights into the physiological part of plant responses (beyond structural responses). 
 
 In this project, we develop new methods for making more fully use of remote sensing data for monitoring drought stress and plant physiological responses across. For this, we're applying machine learning on the full spectral information of surface reflectance and ancillary obtained from remote sensing and climate reanalysis. The target for algorithms of supervised machine learning are new estimates for the physiological (-only) response to water stress, developed by [Stocker et al., 2018 *New Phytologist*](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15123).
-
-This project is led by Martina Buck, a MSc student in my group for Compuational Ecosystem Science.
