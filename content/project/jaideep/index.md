@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Jaideep"
-summary: ""
+title: "Optimality and plant hydraulics"
+summary: "A step towards a unified theory of plant photosynthesis and hydraulics"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+This is an important step for developing theory for how plant hydraulics determine stomatal regulation and photosynthetic capacity in response to water stress. The research led by Dr. Jaideep Joshi, IIASA, Austria, is published as a pre-pring on BiorXiv ([Joshi et al. 2020](https://doi.org/10.1101/2020.12.17.423132)).
+
+The model presented here offers a solution to resolve measurable plant hydraulic traits withing the theoretical approach for eco-evolutionary optimality implemented by the P-model ([Stocker et al., 2020 *GMD*](https://doi.org/10.5194/gmd-13-1545-2020)).

@@ -57,7 +57,7 @@ My 5-year *Eccellenza* Professorial Fellowship, funded by the Swiss National Sci
 
 Co-hosted at the [Institute of Agricultural Sciences, ETH Zürich](http://www.ias.ethz.ch/) and [Forest Dynamics, WSL Birmensdorf](https://www.wsl.ch/en/about-wsl/research-units/forest-dynamics.html)
 
-Starting September 2019
+started September 2019
 
 <!-- The overarching aim of MIND and the new ETH/WSL Group for Computational Ecosystem Science is to develop new model and data fusion approaches to gain a mechanistic understanding of biogeochemical cycling in ecosystems, water-carbon coupling, and forest responses to climate change. We work at the intersection of Earth system science, ecophysiology, ecology, applied statistics, and high-performance computing and use the widest possible diversity of observational data.
  -->
@@ -107,8 +107,8 @@ We are devoted to an open science philosophy. For us, this means that we'll make
 
 This project will offer three fully funded positions:
 
-- One postdoc, 3 years, starting Autumn 2019
-- Two PhD students, 4 years, starting Summer/Autumn 2020
+- One postdoc, 3 years, started 2020
+- Two PhD students, 4 years, started Summer 2020
 
 ... addressing three objectives:
 

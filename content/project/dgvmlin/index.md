@@ -51,3 +51,4 @@ DGVMs have evolved over several generations, starting from C-only models with a 
 ## Preliminary results
 
 ![Relatinship of the relantive enhancement in NPP versus the relative enhancement in GPP, derived from CO2-only simulations of a set of Dynamic Global Vegetation Models. This shows a point density of data points representing individual gridcells of all models pooled. Their clustering around the 1:1 line indicates linearity in the relationship between GPP and NPP and implies a constant ratio of NPP:GPP.](/img/dgvmlin.png)
+*Relatinship of the relantive enhancement in NPP versus the relative enhancement in GPP, derived from CO2-only simulations of a set of Dynamic Global Vegetation Models. This shows a point density of data points representing individual gridcells of all models pooled. Their clustering around the 1:1 line indicates linearity in the relationship between GPP and NPP and implies a constant ratio of NPP:GPP.*

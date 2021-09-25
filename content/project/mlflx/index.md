@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mlflx"
+title: "A LSTM model for GPP"
 summary: ""
 authors: []
 tags: []
@@ -39,3 +39,21 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+## Motivation
+
+Ecosystem-atmosphere exchange fluxes of water vapour and CO2 are continuously measured at several hundred of sites, distributed across the globe. The oldest running sites have been recording data since over twenty years. Thanks to the international FLUXNET initiative, these time series data are made openly accessible from over hundred sites and provided in a standardized format and complemented with measurements of several meteorological variables, plus soil temperature and moisture, measured in parallel. These data provide an opportunity for understanding ecosystem fluxes and how they are affected by environmental covariates. The challenge is to build models that are sufficiently generalisable in space. That is, temporally resolved relationships learned from one subset of sites should be used effectively to predict time series, given environmental covariates, at new sites (spatial upscaling). 
+
+This is a challenge as previous research has shown that relatively powerful site-specific models can be trained, but predictions to new sites have been found wanting. This may be due to site-specific characteristics (e.g. vegetation type) that have thus far not been satisfactorily encoded in models. In other words, factors that would typically be regarded as random factors in mixed effects modelling, continue to undermine effective learning in machine learning models.
+
+## Approach
+
+We found that deep neural networks that learn temporal dependencies in the data (Long-Short Term Memory, LSTM) are well-suited for this prediction task. 
+
+
+## Preliminary results
+
+Our results indicate that spatially generalisable LSTM models outperform our mechanistic model (the P-model) in predicting GPP. 
+
+![](/img/mlflx.png) 
+*Benchmarking of the LSTM versus a "physical model" - the P-model. This shows the coefficient of determination for out-of-sample predictions at individual sites. Points above the 1:1 line (dashed) indicate that the LSTM outperforms the physical model.*
