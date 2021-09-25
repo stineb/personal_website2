@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Data assimilation"
-summary: "Data from intensive ecosystem monitoring sites is assimilated into predictions of a mechanistic ecosystem model"
+summary: "Data from intensive ecosystem monitoring sites are assimilated into predictions of a mechanistic ecosystem model"
 authors: []
 tags: []
 categories: []
