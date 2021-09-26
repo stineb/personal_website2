@@ -19,10 +19,10 @@ design:
     image: background.png
     image_darken: 1.0
     image_parallax: true
-    image_position: center
-    image_size: actual
+    image_position: top
+    image_size: contain
     text_color_light: false
   spacing:
-    padding: ["20px", "0", "80px", "0"]
+    padding: ["80px", "0", "0", "0"]
 ---
 
