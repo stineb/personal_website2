@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Machine learning for GPP"
-summary: ""
+summary: "Building powerful models for spatial upscaling."
 authors: []
 tags: []
 categories: []

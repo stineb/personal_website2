@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Phenology and photosynthesis"
-summary: ""
+summary: "Is autumn phenology (really) sink-driven?"
 authors: []
 tags: []
 categories: []
