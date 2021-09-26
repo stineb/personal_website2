@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Global leaf N and P"
-summary: ""
+summary: "Identifying global controls and spatial upscaling"
 authors: []
 tags: []
 categories: []
@@ -44,7 +44,7 @@ This research is led by Dr. Di Tian, former postdoc in my group for Computationa
 
 We want to understand what drives leaf nitrogen and phosphorous contents and their variations across the globe. To investigate this, we use a large dataset of plant-level observations by [Tian et al. (2019)](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2812), and complement it with environmental covariates. In constrast to earlier reports, we find that our environmental covariates explain about half of the variations observed in the data - an astonishingly high portion for an ecological dataset where covariates were not actually measured in the field but extracted from other global datasets.
 
-Here is our preliminary result for a global leaf N map:
+Here is our preliminary result for a global leaf N map (gN/m2):
 
 ![](/img/leafn.png)
 

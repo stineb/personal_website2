@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A LSTM model for GPP"
+title: "Machine learning for GPP"
 summary: ""
 authors: []
 tags: []
