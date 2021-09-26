@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 05
 
-title: Banner
+title: ''
 subtitle:
 
 design:
@@ -23,6 +23,7 @@ design:
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["0", "0", "0", "0"]
+    # padding: ["20px", "0", "20px", "0"]
 ---
 
