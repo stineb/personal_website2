@@ -21,7 +21,7 @@ Courses I currently teach at ETH Zürich are listed [here](http://www.vvz.ethz.c
 
 ## Environmental Systems Data Science, D-USYS, ETH Zürich
 
-MSc and PhD students are introduced to a typical data science workflow using various examples from environmental systems. They learn common methods and key aspects for each step through practical application. The course enables students to plan their own data science project in their specialization and to acquire more domain-specific methods independently or in further courses.
+MSc and PhD learn all steps along a typical data science workflow for research projects in Environmental sciences with a particular focus on machine learning applications. This includes contents ranging from workspace management, data mining, handling diverse data formats, programming, version control, data processing, model selection, various machine learning methods, model evaluation, and visualisation.
 
 I created this as a new course in collaboration with Prof. Loic Pellissier and Prof. Joshua Payne for the Environemntal Sciences and Agricultural Sciences study programmes at ETH Zürich.
 

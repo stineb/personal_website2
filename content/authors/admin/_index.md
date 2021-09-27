@@ -45,7 +45,7 @@ highlight_name: true
 
 I am a climate and ecosystem scientist with a special interest in interactions between global environmental change and terrestrial ecology and biogeochemistry. 
 
-My work provides data-informed predictions of how land ecosystems respond to a changing climate, increasing CO2 and changes in nutrient cycles, and climatic extreme events. I develop process-based models, using eco-evolutionary optimality principles to explain plant traits and their adaptation and acclimation to the environment, and I apply machine learning and data assimilation techniques using diverse ecological data (ecosystem flux measurements, forest inventories, remote sensing, and manipulation experimental data, etc.). In brief, I'm building models, as simple as possible and as complex as necessary to learn the most. All [open access](https://github.com/stineb), of course.
+My work provides data-informed predictions of how land ecosystems respond to a changing climate, increasing CO<sub>2</sub> and changes in nutrient cycles, and climatic extreme events. I develop process-based models, using eco-evolutionary optimality principles to explain plant traits and their adaptation and acclimation to the environment, and I apply machine learning and data assimilation techniques using diverse ecological data (ecosystem flux measurements, forest inventories, remote sensing, and manipulation experimental data, etc.). In brief, I'm building models, as simple as possible and as complex as necessary to learn the most. All [open access](https://github.com/stineb), of course.
 
 I am motivated to gain a better understanding of issues that are becoming increasingly pressing to society and policy and that are key to creating a sustainable future.
 
