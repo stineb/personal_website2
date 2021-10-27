@@ -22,7 +22,7 @@ I am committed to an Open Science Practice. With [my group](https://computationa
 
 An implementation of the *P-model* for leaf-level acclimation of photosynthesis [Stocker et al., 2019 *GMD*](https://gmd.copernicus.org/articles/13/1545/2020/)). Implemented as an R package (fully in R). This is used as reference code for P-model implementations in other modelling frameworks and for experimental model development. For efficient time series simulations use its implementation within [rsofun](https://computationales.github.io/rsofun/).
 
-[Documentation](https://computationales.github.io/rpmodel/)
+[Website](https://computationales.github.io/rpmodel/)
 
 [Code on CRAN](https://cran.r-project.org/web/packages/rpmodel/index.html)
 
@@ -38,7 +38,7 @@ A modelling framework for site-scale simulations of ecosystem processes, impleme
 - *SPLASH* for bioclimatic variables, including the surface radiation budget and the soil water balance, [Davis et al., 2017 *GMD*](https://gmd.copernicus.org/articles/10/689/2017/gmd-10-689-2017.html)
 - *LM3-PPA* for comprehensive simulations of ecosystem carbon and water cycling, tree growth, and tree cohort-explicit forest dynamics following the Perfect Plasticity Approximation, [Weng et al., 2015](www.biogeosciences.net/12/2655/2015/doi:10.5194/bg-12-2655-2015)
 
-[Documentation](https://computationales.github.io/rsofun/)
+[Website](https://computationales.github.io/rsofun/)
 
 [Code](https://doi.org/10.5281/zenodo.3759405)
 
@@ -54,7 +54,7 @@ Functions to extract (ingest) environmental point data from large global files o
 - Quality filtering, temporal interpolation and smoothing of remote sensing data
 - Handling of different APIs and file formats, returning ingested data in tidy format.
 
-[Documentation](https://computationales.github.io/ingestr/)
+[Website](https://computationales.github.io/ingestr/)
 
 [Code](https://doi.org/10.5281/zenodo.4495563)
 
@@ -70,7 +70,7 @@ A modular modelling framework for global-scale simulations of ecosystem processe
 - *P-model* for leaf-level acclimation of photosynthesis, [Stocker et al., 2019 *GMD*](https://gmd.copernicus.org/articles/13/1545/2020/)
 - *SPLASH* for bioclimatic variables, including the surface radiation budget and the soil water balance, [Davis et al., 2017 *GMD*](https://gmd.copernicus.org/articles/10/689/2017/gmd-10-689-2017.html)
 
-[Documentation](https://stineb.github.io/sofun/)
+[Website](https://stineb.github.io/sofun/)
 
 [Code](https://doi.org/10.5281/zenodo.3529466)
 
@@ -90,7 +90,7 @@ A cost-efficient TOPMODEL implementation to simulate sub-grid spatio-temporal dy
 
 A light R package for deriving cumulative water deficits, given time series of evapotranspiration and precipitation.
 
-[Documentation](https://stineb.github.io/cwd/)
+[Website](https://stineb.github.io/cwd/)
 
 [Code](https://doi.org/10.5281/zenodo.5359053)
 
