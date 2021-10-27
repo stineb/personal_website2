@@ -18,19 +18,19 @@ I am committed to an Open Science Practice. With [my group](https://computationa
 
 # Code
 
-## [rpmodel](https://stineb.github.io/rpmodel/)
+## [rpmodel](https://computationales.github.io/rpmodel/)
 
-An implementation of the *P-model* for leaf-level acclimation of photosynthesis [Stocker et al., 2019 *GMD*](https://gmd.copernicus.org/articles/13/1545/2020/)). Implemented as an R package (fully in R). This is used as reference code for P-model implementations in other modelling frameworks and for experimental model development. For efficient time series simulations use its implementation within [rsofun](https://stineb.github.io/rsofun/).
+An implementation of the *P-model* for leaf-level acclimation of photosynthesis [Stocker et al., 2019 *GMD*](https://gmd.copernicus.org/articles/13/1545/2020/)). Implemented as an R package (fully in R). This is used as reference code for P-model implementations in other modelling frameworks and for experimental model development. For efficient time series simulations use its implementation within [rsofun](https://computationales.github.io/rsofun/).
 
-[Documentation](https://stineb.github.io/rpmodel/)
+[Documentation](https://computationales.github.io/rpmodel/)
 
 [Code on CRAN](https://cran.r-project.org/web/packages/rpmodel/index.html)
 
-[Development code](https://github.com/stineb/rpmodel/)
+[Development code](https://github.com/computationales/rpmodel/)
 
 ---
 
-## [rsofun](https://stineb.github.io/rsofun/)
+## [rsofun](https://computationales.github.io/rsofun/)
 
 A modelling framework for site-scale simulations of ecosystem processes, implemented as an R package (back-end in Fortran 90). Implements the following models:
 
@@ -38,27 +38,27 @@ A modelling framework for site-scale simulations of ecosystem processes, impleme
 - *SPLASH* for bioclimatic variables, including the surface radiation budget and the soil water balance, [Davis et al., 2017 *GMD*](https://gmd.copernicus.org/articles/10/689/2017/gmd-10-689-2017.html)
 - *LM3-PPA* for comprehensive simulations of ecosystem carbon and water cycling, tree growth, and tree cohort-explicit forest dynamics following the Perfect Plasticity Approximation, [Weng et al., 2015](www.biogeosciences.net/12/2655/2015/doi:10.5194/bg-12-2655-2015)
 
-[Documentation](https://stineb.github.io/rsofun/)
+[Documentation](https://computationales.github.io/rsofun/)
 
 [Code](https://doi.org/10.5281/zenodo.3759405)
 
-[Development code](https://github.com/stineb/rsofun/)
+[Development code](https://github.com/computationales/rsofun/)
 
 ---
 
-## [ingestr](https://stineb.github.io/ingestr/)
+## [ingestr](https://computationales.github.io/ingestr/)
 
-Functions to extract (ingest) environmental point data from large global files or remote data servers and create time series at user-specified temporal resolution. Facilitates forcing and evaluation data preparation for [rsofun](https://stineb.github.io/rsofun/). The main functionalities are:
+Functions to extract (ingest) environmental point data from large global files or remote data servers and create time series at user-specified temporal resolution. Facilitates forcing and evaluation data preparation for [rsofun](https://computationales.github.io/rsofun/). The main functionalities are:
 
 - Temporal downscaling from montly to daily resolution
 - Quality filtering, temporal interpolation and smoothing of remote sensing data
 - Handling of different APIs and file formats, returning ingested data in tidy format.
 
-[Documentation](https://stineb.github.io/ingestr/)
+[Documentation](https://computationales.github.io/ingestr/)
 
 [Code](https://doi.org/10.5281/zenodo.4495563)
 
-[Development code](https://github.com/stineb/ingestr/)
+[Development code](https://github.com/computationales/ingestr/)
 
 ---
 

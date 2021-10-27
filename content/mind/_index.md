@@ -58,7 +58,7 @@ We are devoted to an open science philosophy. For us, this means that we'll make
 
 - **Findable** by publishing on [*Zenodo*](zenodo.org/stineb) and other premanent repositories,
 - **Openly accessible** through [*github*](github.com/stineb/mindproject), and
-- **Reusable** through free open-source software packages (see for example [rpmodel](stineb.github.io/rpmodel)) and comprehensive documentation (see for example [SOFUN](stineb.github.io/sofun)).
+- **Reusable** through free open-source software packages (see for example [rpmodel](computationales.github.io/rpmodel)) and comprehensive documentation (see for example [SOFUN](stineb.github.io/sofun)).
 
 ## The project
 
