@@ -28,9 +28,12 @@ main:
   - name: Posts
     url: '#posts'
     weight: 70
+  - name: Join us
+    url: '#joinus'
+    weight: 80
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
