@@ -25,7 +25,7 @@ MSc and PhD learn all steps along a typical data science workflow for research p
 
 I created this as a new course in collaboration with Prof. Loic Pellissier and Prof. Joshua Payne for the Environemntal Sciences and Agricultural Sciences study programmes at ETH Zürich.
 
-- Tutorial available [here](https://stineb.github.io/esds_book/)
+- Tutorial available [here](https://computationales.github.io/esds_book/)
 
 ---
 

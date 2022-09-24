@@ -14,7 +14,9 @@ header:
   image: ""
 ---
 
-I am committed to an Open Science Practice. With [my group](https://computationales.ethz.ch/), we're building an environment of open source tools for ecosystem data and modelling. This should empower the community to use latest methodological innovations, developed in our group. Here is a list of our most important contributions:
+A complete and up-to-date overview of our open source products is on github [here](https://github.com/computationales).
+
+As a group, we are committed to an Open Science Practice. We're building an environment of open source tools for ecosystem data and modelling. This should empower the community to use latest methodological innovations, developed in our group. Here is a list of our most important contributions:
 
 # Code
 
